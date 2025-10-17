@@ -1,5 +1,6 @@
 cmake-build-debug/
-cmake-build-debug/
-cmake-build-debug/
 Aula1/cmake-build-debug/
 .idea/
+CMakeFiles/
+CMakeCache.txt
+
