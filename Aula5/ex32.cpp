@@ -18,7 +18,7 @@ long long sumUntil(long long r, long long c) {
     if (r <= 0 || c <= 0) return 0;
     long double R = r, C = c;
     long double total = R*(R+1)*(R+2*C-1)/6 + R*C*(C-1)/2;
-    return (long long)(total + 0.5);  // arredonda para o inteiro mais próximo
+    return (long long)(total + 0.5);  
 }
 
 long long rectangleSum(long long r1, long long c1, long long r2, long long c2) {
