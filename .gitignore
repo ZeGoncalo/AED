@@ -37,4 +37,4 @@ bin/
 .DS_Store
 
 cmake-build-debug/
-
+.idea/editor.xml
